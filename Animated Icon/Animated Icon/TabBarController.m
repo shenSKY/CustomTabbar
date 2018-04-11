@@ -18,7 +18,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self loadUI];
-//    默认选中第一个
     self.delegate = self;
     _isAnimation = NO;
     
